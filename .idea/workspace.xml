@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48402cb4-78b2-40cc-8f20-5cd6dacd8fc7" name="Changes" comment="Now List can be deleted">
+    <list default="true" id="48402cb4-78b2-40cc-8f20-5cd6dacd8fc7" name="Changes" comment="requirement.txt file added">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/todos.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/todos.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742380730040</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="requirement.txt file added">
+      <option name="closed" value="true" />
+      <created>1742386872043</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742386872043</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +158,7 @@
     <MESSAGE value="Edit, Complete and Exit Button added" />
     <MESSAGE value="Static Webapp created" />
     <MESSAGE value="Now List can be deleted" />
-    <option name="LAST_COMMIT_MESSAGE" value="Now List can be deleted" />
+    <MESSAGE value="requirement.txt file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="requirement.txt file added" />
   </component>
 </project>
